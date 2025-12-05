@@ -96,9 +96,11 @@ xgrid();
 
 
 # Tabulation
-![WhatsApp Image 2025-11-29 at 13 31 34_ba4318c4](https://github.com/user-attachments/assets/2ede97ba-531e-4777-9432-539f414a0cb1)
+![WhatsApp Image 2025-12-05 at 14 24 05_4c2321c5](https://github.com/user-attachments/assets/7d0e2596-b82e-4e59-8e2e-cd715a3c0648)
 
-![WhatsApp Image 2025-11-29 at 13 31 34_11d84403](https://github.com/user-attachments/assets/63bfe626-ce9b-4ced-9b2f-e250e044bdf0)
+
+![WhatsApp Image 2025-12-05 at 14 24 06_5608b500](https://github.com/user-attachments/assets/9d294fc9-5002-4c8c-8dda-01b09f5b1ff9)
+
 
 
 # Calculation
